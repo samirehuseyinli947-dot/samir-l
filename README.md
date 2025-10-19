@@ -1,2 +1,1 @@
-# samir-l
-c++da kodlar
+# c++2
