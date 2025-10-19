@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+using namespace std;
+ int main() {
+     double r, pi = 3.14159;
+     cout <<"dairənin radiusunu daxil edin: " ;
+     cin >>r;
+    double  S = pi * r * r;
+    double  cevre = 2 * pi * r;
+     cout << " sahəsi: " << S << endl;
+     cout << "uzunluğu: " << cevre << endl;
+    
+}
+   
